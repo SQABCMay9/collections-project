@@ -8,7 +8,7 @@
  *   
  */
 
-package collection;
+package com.sqa.jf.collections;
 
 /**
  * ShoppingCartApp A Shopping Cart type app. This app collects items while you

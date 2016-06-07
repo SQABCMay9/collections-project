@@ -8,7 +8,7 @@
  *   
  */
 
-package collection;
+package com.sqa.jf.collections;
 
 /**
  * MediaManager A Media Manger Software. This software collects media for a

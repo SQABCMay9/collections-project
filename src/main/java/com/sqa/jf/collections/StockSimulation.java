@@ -8,7 +8,7 @@
  *   
  */
 
-package collection;
+package com.sqa.jf.collections;
 
 /**
  * StockSimulation A Stock Simulation software. This software shows securities

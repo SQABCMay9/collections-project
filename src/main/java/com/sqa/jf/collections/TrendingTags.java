@@ -8,7 +8,7 @@
  *   
  */
 
-package collection;
+package com.sqa.jf.collections;
 
 /**
  * TrendingTags A Twitter type software. This software captures popular tags and

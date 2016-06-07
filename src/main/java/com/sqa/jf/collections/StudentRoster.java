@@ -8,7 +8,7 @@
  *   
  */
 
-package collection;
+package com.sqa.jf.collections;
 
 /**
  * StudentRoster A Student Roster App. This app collects student IDs for a

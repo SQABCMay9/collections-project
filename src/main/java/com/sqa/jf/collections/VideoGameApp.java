@@ -8,7 +8,7 @@
  *   
  */
 
-package collection;
+package com.sqa.jf.collections;
 
 import java.util.Map;
 import java.util.TreeMap;
